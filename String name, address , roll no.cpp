@@ -1,6 +1,4 @@
 //Ibad Ali
-//2412177
-//BSCS 1 A
 #include <iostream>
 #include <string>
 using namespace std;
