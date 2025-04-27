@@ -20,14 +20,9 @@ Open terminal or command prompt.
 
 Compile the code:
 
-Copy
-Edit
 g++ user_info.cpp -o user_info
 Run the program:
 
-bash
-Copy
-Edit
 ./user_info
 Example Output
 yaml
